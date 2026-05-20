@@ -1,4 +1,4 @@
-# Intel CET Deep Dive — Linux Summit North America 2026
+# A technical deep dive into Intel CET Implementation in Linux — Linux Security Summit North America 2026
 
 **Hardware Control-Flow Integrity in the Linux Kernel**
 
@@ -6,7 +6,7 @@
 |---|---|
 | **Speaker** | Jay Tharwani |
 | **Email** | jtharwan@alumni.uncc.edu |
-| **Event** | Linux Summit North America 2026 |
+| **Event** | Linux Security Summit North America 2026 |
 | **Duration** | 20-minute technical talk + Q&A |
 
 ## Download
