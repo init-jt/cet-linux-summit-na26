@@ -4,7 +4,7 @@
 
 - **Event**: Linux Summit North America 2026
 - **Duration**: 30 minutes (20 min talk + 10 min Q&A)
-- **Speaker**: [Speaker Name]
+- **Speaker**: Jay Tharwani
 - **Slide Count**: 18 slides
 - **Style**: Technical deep-dive with kernel source code examples
 - **Audience**: Kernel developers, security engineers, systems programmers
@@ -13,10 +13,9 @@
 
 ## Slide 01 — Cover
 
-**Title**: Intel CET Deep Dive
-**Subtitle**: Hardware Control-Flow Integrity in the Linux Kernel
+**Title**: A technical deep dive into Intel CET Implementation in Linux
 **Event**: Linux Summit North America 2026
-**Speaker**: [Speaker Name]
+**Speaker**: Jay Tharwani
 
 ---
 
