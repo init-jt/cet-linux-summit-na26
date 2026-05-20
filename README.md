@@ -25,8 +25,8 @@ This talk walks through the kernel implementation: `gen_endbr()`, ENDBR sealing 
 ## Contents
 
 ```
-slides/   — Presentation (PPTX, 18 slides with speaker notes)
-sources/  — Markdown source outline and speaker notes
+slides/   — Presentation
+sources/  — Markdown source outline and notes
 ```
 
 ## License
